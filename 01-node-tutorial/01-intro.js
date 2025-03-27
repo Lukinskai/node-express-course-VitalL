@@ -6,4 +6,4 @@ if (amount < 10) {
   console.log('large number')
 }
 
-console.log(`hey CTD!!!`)
+console.log(`hey CTD week1!!!`)
