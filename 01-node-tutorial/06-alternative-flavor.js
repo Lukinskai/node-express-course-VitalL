@@ -1,6 +1,19 @@
-module.exports.items = ['item1', 'item2']
-const person = {
-  name: 'bob',
-}
 
-module.exports.singlePerson = person
+
+
+module.exports.lukasFamNames = [
+  
+  'John Lukas',
+  'Peter Lukas',
+  'Kelly Lukas'
+
+];
+
+
+module.exports.person = {
+
+  name: 'Dua Lipa',
+  age: 45,
+
+};
+
